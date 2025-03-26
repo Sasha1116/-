@@ -1,2 +1,2 @@
-def yuriy_uchiha_pidor(typoy) 
+def knb() 
 num = 5
